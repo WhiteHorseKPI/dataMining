@@ -1,1 +1,1 @@
-## This repository is designed to store laboratory data analysis work
+## This repository is designed to store laboratory work on data analysis 
